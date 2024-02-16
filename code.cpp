@@ -1,6 +1,4 @@
-//i21-0790 Muhammad Ahmad
-//i21-1724 Afza Anjum
-//i21-0460 Munam Mustafa
+
 
 #include <iostream>
 #include <fstream>
